@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+
+        val a = readLine()!!.toInt()
+        val b = readLine()!!.toInt()
+        val c = readLine()!!.toInt()
+
+        println(if (a > c) {
+            // put your code here
+        } else {
+            // and here
+        })
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4627
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4627">JetBrains
+    Academy</a></html>
+  time: Mon, 01 Nov 2021 11:31:20 UTC
+record: -1
